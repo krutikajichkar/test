@@ -1,5 +1,0 @@
-{{#user}}
-Name: Krutika Jichkar
-Skills: React , Redux , HTML , CSS , Tailwind CSS , JavaScript
-Email: krutikajichkar2@gmail.com
-{{/user}}
